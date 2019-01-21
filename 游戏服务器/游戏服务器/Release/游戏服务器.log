@@ -1,0 +1,26 @@
+﻿  联网下棋.cpp
+e:\中国象棋\中国象棋第一版\中国象棋第一版\联网下棋.h(186): warning C4068: 未知的杂注
+  游戏服务器.cpp
+E:\\中国象棋\\中国象棋第一版\\中国象棋第一版\\联网下棋.h(186): warning C4068: 未知的杂注
+E:\\中国象棋\\象棋走棋规则\\象棋走棋规则\\棋谱生成.h(19): warning C4068: 未知的杂注
+游戏服务器.cpp(103): warning C4244: “初始化”: 从“time_t”转换到“int”，可能丢失数据
+游戏服务器.cpp(129): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+游戏服务器.cpp(568): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+游戏服务器.cpp(610): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+游戏服务器.cpp(612): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+游戏服务器.cpp(650): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+游戏服务器.cpp(665): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+游戏服务器.cpp(673): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+游戏服务器.cpp(678): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+游戏服务器.cpp(691): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+游戏服务器.cpp(702): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  MainWnd.cpp
+E:\\中国象棋\\中国象棋第一版\\中国象棋第一版\\联网下棋.h(186): warning C4068: 未知的杂注
+e:\中国象棋\游戏服务器\游戏服务器\mainwnd.h(146): warning C4715: “游戏服务器::MainWnd::GetStatus”: 不是所有的控件路径都返回值
+  libfilesql.lib(libfilesql.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+  正在生成代码
+e:\中国象棋\象棋走棋规则\象棋走棋规则\棋谱生成.cpp(228): warning C4715: “CharacterToInt”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  游戏服务器.vcxproj -> E:\中国象棋\游戏服务器\Release\游戏服务器.exe
+  游戏服务器.vcxproj -> E:\中国象棋\游戏服务器\Release\游戏服务器.pdb (Full PDB)

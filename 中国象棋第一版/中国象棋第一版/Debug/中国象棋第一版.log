@@ -1,0 +1,6 @@
+﻿  Main.cpp
+e:\中国象棋\中国象棋第一版\中国象棋第一版\联网下棋.h(99): warning C4068: 未知的杂注
+  联网下棋.cpp
+e:\中国象棋\中国象棋第一版\中国象棋第一版\联网下棋.h(99): warning C4068: 未知的杂注
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\thread(8): fatal error C1189: #error:  <thread> is not supported when compiling with /clr or /clr:pure.
+  正在生成代码...

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="登入框">
+      <UniqueIdentifier>{a10724cd-25b6-425e-9b77-9c7bb253a45a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="游戏房间">
+      <UniqueIdentifier>{fecd7749-5758-4da6-b13a-7e904f440ca6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="象棋游戏界面">
+      <UniqueIdentifier>{b0a47601-8d31-4d21-8cda-7c465d93bde5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="联网下棋">
+      <UniqueIdentifier>{aeb75a64-a1d0-4eed-a408-9273493fe72c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="棋谱盘">
+      <UniqueIdentifier>{1d4fcf53-e449-403c-8482-2dd75ab503e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="登入.cpp">
+      <Filter>登入框</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="游戏房间.cpp">
+      <Filter>游戏房间</Filter>
+    </ClCompile>
+    <ClCompile Include="象棋游戏.cpp">
+      <Filter>象棋游戏界面</Filter>
+    </ClCompile>
+    <ClCompile Include="联网下棋.cpp">
+      <Filter>联网下棋</Filter>
+    </ClCompile>
+    <ClCompile Include="联网下棋总控制.cpp">
+      <Filter>联网下棋</Filter>
+    </ClCompile>
+    <ClCompile Include="棋谱复盘.cpp">
+      <Filter>棋谱盘</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="登入.h">
+      <Filter>登入框</Filter>
+    </ClInclude>
+    <ClInclude Include="游戏房间.h">
+      <Filter>游戏房间</Filter>
+    </ClInclude>
+    <ClInclude Include="象棋游戏.h">
+      <Filter>象棋游戏界面</Filter>
+    </ClInclude>
+    <ClInclude Include="联网下棋.h">
+      <Filter>联网下棋</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\象棋走棋规则\象棋走棋规则\象棋走棋规则.h">
+      <Filter>象棋游戏界面</Filter>
+    </ClInclude>
+    <ClInclude Include="主界面.h">
+      <Filter>联网下棋</Filter>
+    </ClInclude>
+    <ClInclude Include="日志.h">
+      <Filter>联网下棋</Filter>
+    </ClInclude>
+    <ClInclude Include="Global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="棋谱复盘.h">
+      <Filter>棋谱盘</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="游戏房间.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登入.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="象棋游戏.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="主界面.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="日志.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="棋谱复盘.resx">
+      <Filter>资源文件</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="中国象棋第一版.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\cnvcs_xiangqi_128px_1186759_easyicon.net.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
